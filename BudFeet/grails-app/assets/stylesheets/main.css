@@ -1,0 +1,41 @@
+
+
+.header {
+	margin:0;
+}
+
+
+.navigation {
+    text-align:center;
+    border-bottom:1px solid #c1c1c1;
+    padding:0px;
+}
+
+.footer {
+    height: 100px;
+    text-align:center;
+    background: -moz-linear-gradient(top,  rgba(35,35,35,1) 1%, rgba(51,51,51,1) 4%, rgba(89,89,89,1) 8%, rgba(19,19,19,1) 99%, rgba(0,0,0,1) 99%, rgba(76,76,76,1) 100%, rgba(10,10,10,1) 100%, rgba(89,89,89,1) 100%, rgba(43,43,43,1) 100%, rgba(17,17,17,1) 100%, rgba(28,28,28,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,rgba(35,35,35,1)), color-stop(4%,rgba(51,51,51,1)), color-stop(8%,rgba(89,89,89,1)), color-stop(99%,rgba(19,19,19,1)), color-stop(99%,rgba(0,0,0,1)), color-stop(100%,rgba(76,76,76,1)), color-stop(100%,rgba(10,10,10,1)), color-stop(100%,rgba(89,89,89,1)), color-stop(100%,rgba(43,43,43,1)), color-stop(100%,rgba(17,17,17,1)), color-stop(100%,rgba(28,28,28,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(35,35,35,1) 1%,rgba(51,51,51,1) 4%,rgba(89,89,89,1) 8%,rgba(19,19,19,1) 99%,rgba(0,0,0,1) 99%,rgba(76,76,76,1) 100%,rgba(10,10,10,1) 100%,rgba(89,89,89,1) 100%,rgba(43,43,43,1) 100%,rgba(17,17,17,1) 100%,rgba(28,28,28,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(35,35,35,1) 1%,rgba(51,51,51,1) 4%,rgba(89,89,89,1) 8%,rgba(19,19,19,1) 99%,rgba(0,0,0,1) 99%,rgba(76,76,76,1) 100%,rgba(10,10,10,1) 100%,rgba(89,89,89,1) 100%,rgba(43,43,43,1) 100%,rgba(17,17,17,1) 100%,rgba(28,28,28,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(35,35,35,1) 1%,rgba(51,51,51,1) 4%,rgba(89,89,89,1) 8%,rgba(19,19,19,1) 99%,rgba(0,0,0,1) 99%,rgba(76,76,76,1) 100%,rgba(10,10,10,1) 100%,rgba(89,89,89,1) 100%,rgba(43,43,43,1) 100%,rgba(17,17,17,1) 100%,rgba(28,28,28,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(35,35,35,1) 1%,rgba(51,51,51,1) 4%,rgba(89,89,89,1) 8%,rgba(19,19,19,1) 99%,rgba(0,0,0,1) 99%,rgba(76,76,76,1) 100%,rgba(10,10,10,1) 100%,rgba(89,89,89,1) 100%,rgba(43,43,43,1) 100%,rgba(17,17,17,1) 100%,rgba(28,28,28,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#232323', endColorstr='#1c1c1c',GradientType=0 ); /* IE6-9 */
+}
+
+.body {
+	background-color:white;
+	color:black;
+}
+
+
+
+.btn-circle {
+  width: 80px;
+  height: 35px;
+  text-align: center;
+  margin: 20px 20px 10px 20px;
+  font-size: 12px;
+  line-height: 1.42;
+}
+
