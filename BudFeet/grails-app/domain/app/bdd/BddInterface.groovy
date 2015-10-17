@@ -34,4 +34,6 @@ class BddInterface {
 			"' and libelle = '" + categoriename + "'")
 	}
 	
+	static def updateCat(String username) {}
+	
 }
